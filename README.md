@@ -1,6 +1,6 @@
-# A skeletal starter kit for Eleventy
+# Esta é minha casa na web. Um lugar para treinar o que aprendo e escrever sobre isso. E qualquer outra coisa que eu queira, já que é a minha casa na web. 
 
-Hebra is a skeletal [Eleventy](https://11ty.io) starter kit that gives you nothing but good ol’ HTML and an RSS feed. It serves as the ideal kick-off point for your projects.
+It's based on Hebra. A skeletal [Eleventy](https://11ty.io) starter kit.
 
 <img src="https://res.cloudinary.com/andybelldesign/image/upload/f_auto/v1562075991/hebra/hebra_itwbco.png" width="550" />
 

@@ -1,11 +1,11 @@
 {
-  "showThemeCredit": true,
-  "name": "Hebra Starter Kit",
-  "shortDesc": "Hebra is a skeletal Eleventy starter kit that gives you nothing but good ol’ HTML and an RSS feed. It serves as the ideal kick-off point for your projects.",
-  "url": "https://hebra.dev",
-  "authorEmail": "me@andy-bell.design",
-  "authorHandle": "@andybelldesign",
-  "authorName": "Andy Bell",
+  "showThemeCredit": false,
+  "name": "Sue's web home",
+  "shortDesc": "Sue's web home",
+  "url": "https://sueswebhome.netlify.com/",
+  "authorEmail": "sue@lantana.com.br",
+  "authorHandle": "",
+  "authorName": "Sue",
   "enableThirdPartyComments": false,
   "maxPostsPerPage": 5
 }
